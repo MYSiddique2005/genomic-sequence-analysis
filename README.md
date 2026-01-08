@@ -45,9 +45,11 @@ results/analysis.txt
 [Python.for.Genomic.Data.Science.pdf](https://github.com/user-attachments/files/24500079/Python.for.Genomic.Data.Science.pdf)
 
 ### Introduction to Genomic Technologies
-[Introduction to Genomic Technologies Certificate](https://github.com/user-attachments/assets/1f522b4a-589a-4bf3-b8a1-af406999446a)
+[Introduction to Genomic Technologies Certificate.pdf](https://github.com/user-attachments/files/24500114/Introduction.to.Genomic.Technologies.Certificate.pdf)
+
 
 ## Purpose
 
 This project was created as part of bioinformatics skill development and is suitable for research-based internships and academic training.
+
 
