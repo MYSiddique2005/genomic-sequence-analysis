@@ -38,14 +38,17 @@ results/analysis.txt
 
 * Python for Genomic Data Science
   Johns Hopkins University (Coursera)
-  certificates/python_for_genomic_data_science.pdf
+  [Python for Genomic Data Science.pdf](https://github.com/user-attachments/files/24500483/Python.for.Genomic.Data.Science.pdf)
+
 
 * Introduction to Genomic Technologies
   Johns Hopkins University (Coursera)
-  certificates/introduction_to_genomic_technologies.pdf
+  
+[Introduction to Genomic Technologies Certificate.pdf](https://github.com/user-attachments/files/24500488/Introduction.to.Genomic.Technologies.Certificate.pdf)
 
 ---
 
 ### Purpose
 
 Built to demonstrate basic bioinformatics and programming skills for research internships.
+
