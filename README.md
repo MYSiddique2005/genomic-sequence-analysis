@@ -43,12 +43,12 @@ results/analysis.txt
 
 * Introduction to Genomic Technologies
   Johns Hopkins University (Coursera)
-  
-[Introduction to Genomic Technologies Certificate.pdf](https://github.com/user-attachments/files/24500488/Introduction.to.Genomic.Technologies.Certificate.pdf)
+  [Introduction to Genomic Technologies Certificate.pdf](https://github.com/user-attachments/files/24500488/Introduction.to.Genomic.Technologies.Certificate.pdf)
 
 ---
 
 ### Purpose
 
 Built to demonstrate basic bioinformatics and programming skills for research internships.
+
 
