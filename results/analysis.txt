@@ -1,0 +1,11 @@
+Genomic Sequence Analysis Results
+--------------------------------
+Header: >gi|142022655|gb|EQ086233.1|527 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+Sequence Length: 45743
+GC Content: 66.36%
+
+Nucleotide Frequency:
+A: 7694
+T: 7694
+G: 15161
+C: 15194
