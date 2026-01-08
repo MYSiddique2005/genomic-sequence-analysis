@@ -1,55 +1,51 @@
-# Genomic Sequence Analysis
+## Genomic Sequence Analysis
 
-A simple Python-based bioinformatics project to analyze DNA sequences from FASTA files.
-This project demonstrates basic bioinformatics concepts using Python in a Linux environment.
+A simple Python bioinformatics project to analyze DNA sequences from FASTA files using Linux.
 
+---
 
-## What this project does
+### What it does
 
 * Reads DNA sequence from a FASTA file
 * Calculates sequence length
-* Calculates GC content (%)
+* Calculates GC content
 * Calculates nucleotide frequency (A, T, G, C)
 * Saves results to a text file
 
+---
 
-## Tools & Technologies
+### Tools
 
 * Python
-* FASTA format
+* FASTA
 * Linux (Ubuntu)
 * Git & GitHub
 
-## Project Structure
+---
 
-* src → Python code
-* data → FASTA input file
-* results → Analysis output
-  
-## How to run
-Run from project root:
+### How to run
+
+From project root:
+
 python3 src/main.py
-Results will be saved in:
+
+Output is saved in:
 results/analysis.txt
 
-## Skills Shown
+---
 
-* Python for bioinformatics
-* Genomic data handling
-* Linux command line
-* Git version control
+### Certifications
 
-## Certifications
+* Python for Genomic Data Science
+  Johns Hopkins University (Coursera)
+  certificates/python_for_genomic_data_science.pdf
 
-### Python for Genomic Data Science
-[Python.for.Genomic.Data.Science.pdf](https://github.com/user-attachments/files/24500079/Python.for.Genomic.Data.Science.pdf)
+* Introduction to Genomic Technologies
+  Johns Hopkins University (Coursera)
+  certificates/introduction_to_genomic_technologies.pdf
 
-### Introduction to Genomic Technologies
-[Introduction to Genomic Technologies Certificate.pdf](https://github.com/user-attachments/files/24500114/Introduction.to.Genomic.Technologies.Certificate.pdf)
+---
 
+### Purpose
 
-## Purpose
-
-This project was created as part of bioinformatics skill development and is suitable for research-based internships and academic training.
-
-
+Built to demonstrate basic bioinformatics and programming skills for research internships.
